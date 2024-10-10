@@ -1,4 +1,5 @@
-# abusedetector 🤬🤬🤬🤬🤬🤬🤬🤬🤬
+
+# *ABUSUJI* abusedetector 🤬🤬🤬🤬🤬🤬🤬🤬🤬
 
 ![BsdkMcBklTvfRoadiesGIF](https://github.com/user-attachments/assets/fc8ac17b-d237-41e7-93d0-c29bbb9d9ea0)
 ![AbuseAbusiveGIF](https://github.com/user-attachments/assets/b44c45ba-cd74-4dd1-bb8b-f1cec57a9696)
@@ -15,6 +16,8 @@
 
   
 </details>
+
+![image](https://github.com/user-attachments/assets/1bb34091-a8ac-4bf1-b2bf-d31bbeef9c43)
 
 
 ## ISKA SAARA credit mere dosto ko jata hai 💋💋🫦 aur inki galiyon ko bhi nahi toh yeh kabhi ban hi nahi pata because , iss project ki main requirement hi inki aadat hai (*Gaaliyan*)💀:
