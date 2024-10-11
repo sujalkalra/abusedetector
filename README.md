@@ -1,8 +1,11 @@
 
 # *ABUSUJI* abusedetector 🤬🤬🤬🤬🤬🤬🤬🤬🤬
 
-![BsdkMcBklTvfRoadiesGIF](https://github.com/user-attachments/assets/fc8ac17b-d237-41e7-93d0-c29bbb9d9ea0)
-![AbuseAbusiveGIF](https://github.com/user-attachments/assets/b44c45ba-cd74-4dd1-bb8b-f1cec57a9696)
+<div style="display:flex-wrap ; justify-content: space-between;">
+  <img src="https://github.com/user-attachments/assets/fc8ac17b-d237-41e7-93d0-c29bbb9d9ea0" width = "300">
+  <img src="https://github.com/user-attachments/assets/b44c45ba-cd74-4dd1-bb8b-f1cec57a9696" width = "300">
+</div>
+
 
 ### **Hinglish:**
 
@@ -23,10 +26,9 @@
 ## ISKA SAARA credit mere dosto ko jata hai 💋💋🫦 aur inki galiyon ko bhi nahi toh yeh kabhi ban hi nahi pata because , iss project ki main requirement hi inki aadat hai (*Gaaliyan*)💀:
 
 ## GAALI contributors:
-![image](https://github.com/user-attachments/assets/ad83587c-3846-47dc-bd31-2b8f476b9ef4)
+<img src="https://github.com/user-attachments/assets/ad83587c-3846-47dc-bd31-2b8f476b9ef4" width = "500">
 
 ## Code contributor:
-![image](https://github.com/user-attachments/assets/f74d7434-58c8-48fb-bc95-9085d7d2a872)
-
+<img src="https://github.com/user-attachments/assets/f74d7434-58c8-48fb-bc95-9085d7d2a872" width = "500">
 
 
