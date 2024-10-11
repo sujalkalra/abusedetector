@@ -19,15 +19,15 @@
 
   
 </details>
-<img src="https://github.com/user-attachments/assets/1bb34091-a8ac-4bf1-b2bf-d31bbeef9c43" width="200">
+<img src="https://github.com/user-attachments/assets/1bb34091-a8ac-4bf1-b2bf-d31bbeef9c43" width="200" alt="logo">
 
 
 ## ISKA SAARA credit mere dosto ko jata hai 💋💋🫦 aur inki galiyon ko bhi nahi toh yeh kabhi ban hi nahi pata because , iss project ki main requirement hi inki aadat hai (*Gaaliyan*)💀:
 
 ## GAALI contributors:
-<img src="https://github.com/user-attachments/assets/ad83587c-3846-47dc-bd31-2b8f476b9ef4" width = "500" alt="logo">
+<img src="https://github.com/user-attachments/assets/ad83587c-3846-47dc-bd31-2b8f476b9ef4" width = "300">
 
 ## Code contributor:
-<img src="https://github.com/user-attachments/assets/f74d7434-58c8-48fb-bc95-9085d7d2a872" width = "500">
+<img src="https://github.com/user-attachments/assets/f74d7434-58c8-48fb-bc95-9085d7d2a872" width = "300">
 
 
