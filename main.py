@@ -1,3 +1,4 @@
+# dont forget to install this library '''pip install fuzzywuzzy'''
 from fuzzywuzzy import fuzz
 
 # Hindi gaaliyon ki list (phrases included)
