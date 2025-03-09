@@ -31,3 +31,5 @@
 <img src="https://github.com/user-attachments/assets/f74d7434-58c8-48fb-bc95-9085d7d2a872" width = "300">
 
 
+## components and tools:     
+<img src="https://skillicons.dev/icons?i=python" height="50"/>
