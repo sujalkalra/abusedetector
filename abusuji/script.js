@@ -229,7 +229,7 @@ document.addEventListener('DOMContentLoaded', function () {
         resultContent.innerHTML = `<div class="loading"><i class="fas fa-circle-notch fa-spin"></i> Analyzing text...</div>`;
         highlightedText.innerHTML = '';
     
-        fetch('http://localhost:5000/check', {
+        fetch('https://abusedetector.vercel.app/check', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({ text: userInput.value }),
