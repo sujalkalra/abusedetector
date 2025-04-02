@@ -98,7 +98,7 @@ document.addEventListener('DOMContentLoaded', function () {
         resultContent.innerHTML = `<div class="loading"><i class="fas fa-circle-notch fa-spin"></i> Analyzing text...</div>`;
         highlightedText.innerHTML = '';
 
-        fetch('https://abusedetector.onrender.com/check', {
+        fetch('https://abusedetector.onrender.com/api/check', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({ text: userInput.value }),
