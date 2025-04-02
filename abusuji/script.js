@@ -197,7 +197,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     
         try {
-            const response = await fetch('http://localhost:5000/api/reviews', {
+            const response = await fetch('https://abusedetector.vercel.app/api/reviews', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({ name, rating: parseInt(rating), comment }),
@@ -271,7 +271,7 @@ document.addEventListener('DOMContentLoaded', function () {
     async function loadReviews() {
         if (!reviewsList) return;
         try {
-            const response = await fetch('http://localhost:5000/api/reviews');
+            const response = await fetch('https://abusedetector.vercel.app/api/reviews');
             if (!response.ok) throw new Error('Failed to load reviews');
             const reviews = await response.json();
 
