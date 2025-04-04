@@ -78,7 +78,7 @@ ignore_words = [
     "great", "brilliant", "khoobsurat", "pyaara", "mind-blowing", "best", "a1", "superb", "thank you", "mazaa",
     "shaandar", "lajawab", "faadu", "amazing", "awesome", "lovely", "beautiful", "badhiya", "aap best ho",
     "dil khush ho gaya", "sundar", "great work", "bahut badiya", "sahi", "jeet gaya", "badhiya kaam", "incredible",
-    "lajawab kaam", "fab", "amazing", "banadi"
+    "lajawab kaam", "fab", "amazing", "banadi" ,"hamra" , "banda" , "bandi" , "chapter" , "chahiye","waste","hmara","wale"."badle"
 ]
 
 # Function to detect bad words or phrases
