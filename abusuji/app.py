@@ -74,6 +74,7 @@ english_bad_words = [
 
 # Common Hindi words list (to ignore) + Positive words
 ignore_words = [
+    "banda","chahiye",
     "and", "bhai", "genius", "gajab", "wah", "maza aa gaya", "bahut achha", "badiya", "shandar", "zabardast",
     "great", "brilliant", "khoobsurat", "pyaara", "mind-blowing", "best", "a1", "superb", "thank you", "mazaa",
     "shaandar", "lajawab", "faadu", "amazing", "awesome", "lovely", "beautiful", "badhiya", "aap best ho",
