@@ -37,9 +37,9 @@ class JSONEncoder(json.JSONEncoder):
 # Hindi gaaliyon ki list (phrases included)
 bad_words = [
     "maderchod", "behenchod", "bhosadike", "chutiya", "gandu", "harami", "kameena", "randi", "sala", "bhadwa",
-    "ma ki chut", "maa ka bhosda", "ma ka bhosda", "bhen ke lode", "ma ke lode", "lund", "madarchod", "behnchod",
+    "ma ki,"maa ki","ma ki","chut", "maa ka bhosda", "ma ka bhosda", "bhen ke lode", "ma ke lode", "lund", "madarchod", "behnchod",
     "bhosdiwale", "jhantu", "chinal", "chutiye", "randi ka bacha", "loda", "kutta kamina", "jhant ke baal", "gawar",
-    "bhains ki aankh", "chutmarika", "lodu", "gand mara", "tatte", "gaand", "chudail", "ghanta", "chhapri", "haramkhor",
+    "bhains ki aankh", "chutmarika","lodu", "gand mara", "tatte", "gaand", "chudail", "ghanta", "chhapri", "haramkhor",
     "saala kutta", "bhain ka takka", "lundbaaz", "fuddu", "gandu saala", "sala harami", "gandu harami", "bhikhmanga",
     "gawar saala", "tatti", "ghatiya", "bakwas", "fuddu", "kutta kamina", "saala kutta", "bhen ke laude", "gandmara",
     "chutiya sala", "kaminey", "jhant ke baal", "lund ke baal", "bhen ke takke", "bhadwe", "khotte da puttar", "kutte",
