@@ -49,27 +49,34 @@ bad_words = [
 
 # English abusive words
 english_bad_words = [
-    'idiot', 'stupid', 'dumb', 'fool', 'moron', 'jerk', 'ass', 'asshole',
-    'bastard', 'bitch', 'crap', 'damn', 'fuck', 'shit', 'piss', 'dick',
-    'cunt', 'whore', 'slut', 'retard', 'loser', 'trash', 'garbage',
-    'worthless', 'hate', 'kill', 'die', 'ugly', 'fat', 'pathetic', 'useless',
-    'suck', 'hell', 'dumbass', 'bullshit', 'crap', 'scum', 'weirdo', 'douche',
-    'douchebag', 'prick', 'twat', 'cock', 'motherfucker', 'jackass', 'wanker',
-    'pussy', 'dipshit', 'shithole', 'shithead', 'cocksucker', 'asshat',
-    'buttfucker', 'numbnuts', 'fuckface', 'shitbag', 'pisshead', 'cumdumpster',
-    'dickhead', 'fucktard', 'knobhead', 'bellend', 'tosser', 'arsehole',
-    'bollocks', 'pillock', 'slag', 'git', 'minger', 'wazzock', 'nonce',
-    'twunt', 'bint', 'minge', 'chav', 'spastic', 'numpty', 'nutter',
-    'poon', 'skank', 'tramp', 'trollop', 'neanderthal', 'dog', 'rat',
-    'scumbag', 'shitstain', 'cuntface', 'cockwomble', 'waste', 'dickwad',
-    'fuckwit', 'assclown', 'jerkwad', 'shitfaced', 'pissflap', 'wasteoid',
-    'cumstain', 'knobjockey', 'poonani', 'flid', 'motherless', 'shitshow',
-    'arsewipe', 'smeghead', 'fuckbucket', 'douchecanoe', 'dickweed',
-    'taint', 'dumbfuck', 'jizzstain', 'fucknugget', 'pissbaby', 'bitchface',
-    'shitlord', 'dickbag', 'twatwaffle', 'cocknose', 'assmunch', 'cockstain',
-    'puta', 'puta madre', 'chingada', 'mierda', 'pendejo', 'cabron',
-    'gilipollas', 'coño', 'malparido', 'boludo', 'hijo de puta', 'culero'
+    'arsebandit', 'arsehole', 'arsewipe', 'ass', 'assbitch', 'assclown',
+    'asshat', 'asslicker', 'assmunch', 'asswipe', 'bastard', 'bellend',
+    'bitch', 'bitchface', 'bollocks', 'boludo', 'buttfucker', 'buttlicker',
+    'buttmunch', 'cabron', 'chav', 'chingada', 'cock', 'cockbite',
+    'cockburger', 'cockfucker', 'cocklord', 'cockmaster', 'cocknose',
+    'cocksplat', 'cockstain', 'cockwomble', 'coño', 'crackwhore', 'crap',
+    'cumdumpster', 'cumguzzler', 'cumbubble', 'cumstain', 'dick',
+    'dickbag', 'dickbreath', 'dickhead', 'dickless', 'dickmilker',
+    'dicknose', 'dicksneeze', 'dickwad', 'dickweed', 'dipshit', 'dog',
+    'douche', 'douchebag', 'douchecanoe', 'dumb', 'dumbass', 'dumbfuck',
+    'fag', 'faggot', 'faphead', 'flid', 'fuck', 'fuckbag', 'fuckbucket',
+    'fuckface', 'fuckhole', 'fucklord', 'fucknugget', 'fuckpuppet',
+    'fuckrag', 'fuckstick', 'fucktard', 'fuckwit', 'gilipollas', 'git',
+    'hell', 'hijo de puta', 'hoe', 'jackass', 'jerk', 'jerkwad',
+    'jizzstain', 'knobhead', 'knobjockey', 'loser', 'malparido', 'minger',
+    'mierda', 'minge', 'moron', 'motherfucker', 'motherless', 'neanderthal',
+    'nonce', 'numbnuts', 'numpty', 'nutter', 'pendejo', 'pillock',
+    'piss', 'pissbaby', 'pissflap', 'pisshead', 'poon', 'poonani', 'prick',
+    'puta', 'puta madre', 'queerbait', 'rat', 'retard', 'scum', 'scumbag',
+    'shit', 'shitbag', 'shitbrain', 'shitbreath', 'shitcock', 'shitcunt',
+    'shitface', 'shitfaced', 'shithead', 'shitlick', 'shitlicker',
+    'shitlord', 'shitmuncher', 'shitshow', 'shitstain', 'shithole',
+    'skank', 'slag', 'smeghead', 'spastic', 'splooge', 'taint', 'tosser',
+    'tramp', 'trash', 'trollop', 'twat', 'twatwaffle', 'twatsicle',
+    'twunt', 'wankstain', 'wanker', 'waste', 'wasteoid', 'weirdo',
+    'wazzock', 'whore'
 ]
+
 
 
 # Common Hindi words list (to ignore) + Positive words
