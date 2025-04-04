@@ -106,7 +106,7 @@ def contains_bad_words_fuzzy(message):
             continue  # Ignore common and positive words
         
         clean_word = ''.join(c for c in word if c.isalnum())
-        if len(clean_word) < 3:
+        if len(clean_word) < 3 or clean_word in ignore_words:
             continue  # Skip very short words
             
         for bad_word in bad_words:
