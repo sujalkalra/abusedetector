@@ -44,7 +44,7 @@ bad_words = [
     "gawar saala", "tatti", "ghatiya", "bakwas", "fuddu", "kutta kamina", "saala kutta", "bhen ke laude", "gandmara",
     "chutiya sala", "kaminey", "jhant ke baal", "lund ke baal", "bhen ke takke", "bhadwe", "khotte da puttar", "kutte",
     "lakkadbaggha", "maadarchod", "randi ka bacha", "behen ke lode", "jhant ke baal", "behen ke takke",
-    "gandu ke laude", "saala"
+    "gandu ke laude", "saala" , "chodu" ,"luvdu" 
 ]
 
 # English abusive words
