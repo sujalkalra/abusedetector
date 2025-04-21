@@ -32,4 +32,4 @@
 
 
 ## components and tools:     
-<img src="https://skillicons.dev/icons?i=python" height="50"/>
+<img src="https://skillicons.dev/icons?i=python,html,css,js" height="50"/>
