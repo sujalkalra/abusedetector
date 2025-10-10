@@ -21,7 +21,7 @@ CORS(app)  # Enable CORS for all routes
 mongo_uri = os.getenv("MONGO_URI")
 try:
     client = MongoClient(mongo_uri)
-    db = client['abusuji']
+    db = client.get_database()  # Use the database specified in the connection string
     reviews_collection = db['reviews']
     print("✅ Connected to MongoDB successfully!")
 except Exception as e:
