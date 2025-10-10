@@ -1,4 +1,4 @@
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, send_from_directory, render_template
 from flask_cors import CORS
 from fuzzywuzzy import fuzz
 from pymongo import MongoClient
@@ -11,7 +11,10 @@ from dotenv import load_dotenv
 # Load environment variables from .env file
 load_dotenv()
 
-app = Flask(__name__)
+# Configure Flask to serve static files and templates
+app = Flask(__name__, 
+            static_folder='.', 
+            static_url_path='')
 CORS(app)  # Enable CORS for all routes
 
 # MongoDB connection using environment variable
@@ -88,6 +91,15 @@ ignore_words = [
     "dil khush ho gaya", "sundar", "great work", "bahut badiya", "sahi", "jeet gaya", "badhiya kaam", "incredible",
     "lajawab kaam", "fab", "amazing", "banadi" ,"hamra" , "banda" , "bandi" , "chapter" , "chahiye","waste","hmara","wale","badle"
 ]
+
+# Routes to serve frontend files
+@app.route('/')
+def serve_index():
+    return send_from_directory('.', 'index.html')
+
+@app.route('/<path:path>')
+def serve_static(path):
+    return send_from_directory('.', path)
 
 # Function to detect bad words or phrases
 def contains_bad_words_fuzzy(message):
